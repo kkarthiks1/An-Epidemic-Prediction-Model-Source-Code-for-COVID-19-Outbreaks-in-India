@@ -3,3 +3,4 @@ An Epidemic Prediction Model Source Code for COVID-19 Outbreaks in India using M
 
 
 This model is developed using R programming. 
+This project is licensed under the terms of the MIT license
